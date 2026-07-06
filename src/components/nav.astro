@@ -28,11 +28,6 @@ const navItems: NavItem[] = [
     href: "#tech",
     icon: `mdi:code-tags`,
   },
-  // {
-  //   label: "Education",
-  //   href: "#contact",
-  //   icon: `mdi:message`,
-  // },
   {
     label: "Contact",
     href: "#contact",
@@ -84,6 +79,10 @@ const navItems: NavItem[] = [
     opacity: 0;
     transform: translateY(20px);
     animation: revealIn 0.8s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
+  }
+
+  .section-container {
+    scroll-margin-top: 6rem;
   }
   @keyframes revealIn {
     to {
@@ -281,6 +280,18 @@ const navItems: NavItem[] = [
     { passive: true }
   );
 
+  const setActiveNavLink = (id: string | null) => {
+    const navLinks = document.querySelectorAll("nav a[href^='#']");
+    navLinks.forEach((link) => link.classList.remove("active"));
+
+    if (!id) return;
+
+    const activeLink = document.querySelector(`nav a[href="#${id}"]`);
+    if (activeLink) {
+      activeLink.classList.add("active");
+    }
+  };
+
   //smooth scrolling to a linked section
   document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
     anchor.addEventListener("click", function (e) {
@@ -288,9 +299,13 @@ const navItems: NavItem[] = [
       const target = e.currentTarget as HTMLAnchorElement;
       const targetId = target.getAttribute("href")?.substring(1) || "";
       const targetElement = document.getElementById(targetId);
+
+      setActiveNavLink(targetId);
+
       if (targetElement) {
         targetElement.scrollIntoView({
           behavior: "smooth",
+          block: "start",
         });
       }
     });
@@ -299,18 +314,12 @@ const navItems: NavItem[] = [
   //highlight section by observing visible one on the screen by 50%
   document.addEventListener("DOMContentLoaded", () => {
     const sections = document.querySelectorAll("section[id]");
-    const navLinks = document.querySelectorAll("nav a[href^='#']");
     const observerOptions = { threshold: 0.5 };
 
     const observerCallback = (entries: IntersectionObserverEntry[]) => {
       entries.forEach((entry) => {
         if (entry.isIntersecting) {
-          navLinks.forEach((link) => link.classList.remove("active"));
-          const id = entry.target.getAttribute("id");
-          const activeLink = document.querySelector(`nav a[href="#${id}"]`);
-          if (activeLink) {
-            activeLink.classList.add("active");
-          }
+          setActiveNavLink(entry.target.getAttribute("id"));
         }
       });
     };
