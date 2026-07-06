@@ -1,20 +1,37 @@
 [
   {
-    "title": "Awesome Website",
-    "description": "A high-performance, SEO-optimized web application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-01.webp", "astro-02.jpeg"],
-    "tech": ["Astro", "Tailwind"],
+    "title": "Sprinkla",
+    "description": "Sprinkla is a full-stack donut delivery system I built as a personal project to showcase my front-end and back-end development skills. This project gave me hands-on experience designing and building a complete full-stack application from UI/UX design to real-time backend logic and deployment.",
+    "images": ["sprinkla_photo.jpg", "#"],
+    "tech": [
+      "React.js",
+      "NextJS",
+      "Drizzle",
+      "Turso",
+      "ShadCN",
+      "Vercel",
+      "Node.js"
+    ],
     "platforms": ["web"],
-    "link": "https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/",
+    "link": "https://sprinkla.vercel.app/",
     "category": "Published Website"
   },
   {
-    "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
+    "title": "Teyvat Compendium: Genshin Character Data Vault",
+    "description": "Teyvat Compendium is a mobile companion app for Genshin Impact that provides a centralized hub for character information, including ascension and talent materials, using the Genshin API. It helps players efficiently plan character progression with up-to-date data and features like favoriting characters for quick and personalized access.",
+    "images": ["teyvat_compedium_photo.jpg", "#"],
+    "tech": ["Dart", "Flutter", "Firebase", "Genshin API"],
     "platforms": ["apple-ios", "android"],
-    "link": "https://github.com/nbakh16/career-portfolio-template",
-    "category": "Hobby"
+    "link": "https://github.com/Yaj-t/CIS-2203-Mob-dev-finals-project",
+    "category": "School Project"
+  },
+  {
+    "title": "Ensembled Transfer Learning for Image Classification of Venomous and Non-Venomous Snakes in the Philippines",
+    "description": "As part of an academic research initiative accepted for presentation at the 6th International Conference on Advanced Information Technologies (ICAIT) 2025, I collaborated on the study of an image classification system designed to identify venomous and non-venomous snakes in the Philippines.",
+    "images": ["thesis_publication.png", "#"],
+    "tech": ["Python", "Jupyter Notebook", "Web Scraping"],
+    "platforms": ["apple-ios", "android", "web"],
+    "link": "https://ieeexplore.ieee.org/document/11236760",
+    "category": "Publication"
   }
 ]

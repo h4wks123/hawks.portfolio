@@ -1,26 +1,122 @@
 [
   {
-    "company": "Demo Company",
-    "role": "Lead Software Engineer",
+    "company": "OpenSFF",
+    "role": "Full-Stack Software Engineer",
     "period": "Oct 2025 - Present",
-    "type": "Full time job",
-    "description": "Leading cross-platform mobile development using Flutter and FastAPI. Focused on scalable system design and high-performance data processing.",
-    "skills": ["Leading", "Collaboration"]
+    "type": "Wyoming, United States · Remote",
+    "description": [
+      "While working at Tekkio, I was also assigned to support the OpenSFF team in developing web and application features. My contributions span frontend development using Flutter and Next.js, as well as protocol and performance optimizations in Rust.",
+      "‎ ",
+      "• Served as a key contributor to the OpenSFF website spanning both design and frontend: https://opensff.org/",
+      "• Engineered a Flutter-based real-time VNC client application with WebSocket integration, enabling low-latency bidirectional input and rendering.",
+      "• Optimized a real-time rendering pipeline in Rust, reducing frame latency by ~88% (600ms → 70ms) through low-level performance tuning.",
+      "• Reduced network payload size by 90.57% by implementing efficient encoding strategies, improving bandwidth efficiency in real-time systems.",
+      "• Developed concurrent processing pipelines using multi-threading and message passing, improving system responsiveness and throughput.",
+      "• Contributed to the design and development of a full-stack management platform integrating Redfish-compliant APIs for real-time control, configuration, and monitoring of distributed systems.",
+      "• Architected a static-first content system using Next.js for a blog platform, enabling scalable publishing of 50+ MDX articles with CDN-backed performance."
+    ],
+    "skills": [
+      "NextJS",
+      "Flutter",
+      "Dart",
+      "Rust",
+      "Docker",
+      "API Development",
+      "Performance Benchmarking",
+      "Custom Protocol Integration"
+    ]
   },
   {
-    "company": "Demo Company",
-    "role": "Full-stack Developer",
-    "period": "Sep 2023 - Sep 2025",
-    "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
+    "company": "Tekkio LLC",
+    "role": "Full-Stack Software Engineer",
+    "period": "July 2025 - Present",
+    "type": "Wyoming, United States · Remote",
+    "description": [
+      "• Served as a key contributor in the architecture and development of a kiosk-based animal shelter management platform using Flutter and Rust, supporting ~150 volunteers with a focus on accessibility for elderly and accessibility-focused users.",
+      "• Engineered a full-stack ticketing platform with Next.js and Rust, implementing role-based authorization, advanced search, filtering, and pagination.",
+      "• Designed and delivered RESTful APIs supporting authentication, ticket workflows, and high-performance data access.",
+      "• Reduced API latency and request overhead by batching asynchronous calls and optimizing SQL queries with indexing and caching.",
+      "• Designed and enforced end-to-end data validation and type-safe schemas, for ensuring consistency across frontend-backend interactions.",
+      "• Strengthened application security by integrating XSS mitigation and input sanitization, validated against external security test suites.",
+      "• Developed search and filtering for tickets with debounced inputs and URL state persistence, enabling shareable application states."
+    ],
+    "skills": [
+      "NextJS",
+      "Drizzle",
+      "MySQL",
+      "Flutter",
+      "Dart",
+      "Rust",
+      "Docker",
+      "SQLite",
+      "REST APIs"
+    ]
   },
   {
-    "company": "Demo University of Tech",
-    "role": "BSc in Computer Science",
-    "period": "Jun 2020 - Jun 2024",
-    "type": "Student",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["C++", "OOP", "Problem Solving"]
+    "company": "Softwarez at its Best",
+    "role": "Junior Frontend Engineer",
+    "period": "Nov 2024 - Feb 2025",
+    "type": "Cebu, Central Visayas, Philippines · Hybrid",
+    "description": [
+      "• Developed multiple responsive websites with Gatsby/Material UI for React and Blazor / MudBlazor for .NET projects. ",
+      "• Contributed frontend fixes and feature enhancements to production web applications by completing tickets and resolving issues from the GitHub board. ",
+      "• Authored an 80-page documentation using Typst to outline front-end standards and streamline the onboarding process for new developers. ",
+      "• Built custom components, including carousels and animated UI elements, implemented theming, and added dark/light mode. ",
+      "• Enhanced website performance, accessibility, and SEO by implementing improvements identified through Google Lighthouse audits."
+    ],
+    "skills": [
+      "HTML5",
+      "CSS",
+      "Javascript",
+      "Typescript",
+      "React.js",
+      "Node.js",
+      "Gatsby",
+      "TailwindCSS",
+      "C#",
+      ".NET Framework",
+      "Blazor",
+      "Mud Blazor",
+      "Cardano"
+    ]
+  },
+  {
+    "company": "Softwarez at its Best",
+    "role": "Frontend Engineer Intern",
+    "period": "Sept 2024 - Nov 2024",
+    "type": "Cebu, Central Visayas, Philippines · Hybrid",
+    "description": [
+      "During my internship as a frontend developer, I was tasked with studying blockchain technology, specifically the Cardano ecosystem, while also strengthening core skills in frontend development, the .NET Framework, networking concepts, and Bash scripting/WSL usage. This learning phase continued throughout the internship and prepared me for later integration of these concepts into development work as a junior frontend engineer."
+    ],
+    "skills": [
+      "HTML5",
+      "CSS",
+      "Javascript",
+      "Typescript",
+      "React.js",
+      "Node.js",
+      "Gatsby",
+      "TailwindCSS",
+      "C#",
+      ".NET Framework",
+      "Blazor",
+      "Mud Blazor",
+      "Cardano"
+    ]
+  },
+  {
+    "company": "University of San Carlos",
+    "role": "College Graduate",
+    "period": "Jan 2022 - Dec 2025",
+    "type": "Cebu, Central Visayas, Philippines",
+    "description": [
+      "• Consistent Deans Lister for 2022 January - 2025 December",
+      "• Relevant Coursework: Algorithms & Data Structures, Programming Languages, Operating Systems, Networking, System Design and Analysis, Data Analysis, Information Assurance and Security, Web and Mobile Development."
+    ],
+    "skills": [
+      "Web Development",
+      "Frontend",
+      "Backend"
+    ]
   }
 ]

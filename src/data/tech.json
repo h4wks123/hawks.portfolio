@@ -1,35 +1,124 @@
 {
   "categories": [
     {
-      "title": "Mobile Development",
+      "title": "Languages",
       "skills": [
-        { "name": "Flutter", "level": 3, "icon": "skill-icons:flutter-dark" },
-        { "name": "Dart", "level": 3, "icon": "skill-icons:dart-dark" },
-        { "name": "Kotlin", "level": 1, "icon": "skill-icons:kotlin-dark" }
+        { "name": "Javascript", "level": 3, "icon": "skill-icons:javascript" },
+        {
+          "name": "Typescript",
+          "level": 3,
+          "icon": "skill-icons:typescript"
+        },
+        { "name": "C", "level": 1, "icon": "skill-icons:c" },
+        { "name": "C#", "level": 1, "icon": "skill-icons:cs" },
+        { "name": "Python", "level": 1, "icon": "skill-icons:python-dark" },
+        { "name": "Dart", "level": 1, "icon": "skill-icons:dart-dark" },
+        { "name": "Rust", "level": 1, "icon": "skill-icons:rust" }
       ]
     },
     {
       "title": "Frontend",
       "skills": [
-        { "name": "Astro", "level": 2, "icon": "skill-icons:astro" },
         { "name": "HTML", "level": 2, "icon": "skill-icons:html" },
         { "name": "CSS", "level": 2, "icon": "skill-icons:css" },
-        { "name": "Tailwind CSS", "level": 1, "icon": "skill-icons:tailwindcss-dark" }
+        {
+          "name": "Tailwind CSS",
+          "level": 1,
+          "icon": "skill-icons:tailwindcss-dark"
+        },
+        {
+          "name": "React",
+          "level": 1,
+          "icon": "skill-icons:react-dark"
+        },
+        {
+          "name": "Gatsby",
+          "level": 1,
+          "icon": "skill-icons:gatsby"
+        },
+        {
+          "name": "NextJS",
+          "level": 1,
+          "icon": "skill-icons:nextjs-dark"
+        },
+        {
+          "name": "Flutter",
+          "level": 1,
+          "icon": "skill-icons:flutter-dark"
+        }
       ]
     },
     {
       "title": "Backend",
       "skills": [
-        { "name": "FastAPI", "level": 2, "icon": "skill-icons:fastapi" },
-        { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" },
-        { "name": "Firebase", "level": 3, "icon": "vscode-icons:file-type-firebase" }
+        { "name": "NodeJS", "level": 2, "icon": "skill-icons:nodejs-dark" },
+        { "name": "Express", "level": 2, "icon": "skill-icons:expressjs-dark" },
+        { "name": "ASP .NET Core", "level": 2, "icon": "skill-icons:dotnet" },
+        {
+          "name": "Firebase",
+          "level": 3,
+          "icon": "vscode-icons:file-type-firebase"
+        },
+        {
+          "name": "Drizzle ORM",
+          "level": 2,
+          "icon": "skill-icons:codepen-dark"
+        },
+        {
+          "name": "Axum",
+          "level": 2,
+          "icon": "skill-icons:codepen-dark"
+        },
+        {
+          "name": "Rest APIs",
+          "level": 2,
+          "icon": "skill-icons:codepen-dark"
+        }
       ]
     },
     {
       "title": "Database",
       "skills": [
+        {
+          "name": "MySQL",
+          "level": 2,
+          "icon": "skill-icons:mysql-dark"
+        },
         { "name": "SQLite", "level": 3, "icon": "skill-icons:sqlite" },
-        { "name": "PostgreSQL", "level": 2, "icon": "skill-icons:postgresql-dark" }
+        { "name": "Turso", "level": 3, "icon": "skill-icons:codepen-dark" },
+        {
+          "name": "PostgreSQL",
+          "level": 2,
+          "icon": "skill-icons:postgresql-dark"
+        }
+      ]
+    },
+    {
+      "title": "Hosting and Deployment",
+      "skills": [
+        {
+          "name": "Vercel",
+          "level": 2,
+          "icon": "skill-icons:vercel-dark"
+        },
+        { "name": "Render", "level": 3, "icon": "skill-icons:codepen-dark" },
+        { "name": "Docker", "level": 3, "icon": "skill-icons:docker" }
+      ]
+    },
+    {
+      "title": "Other Tools",
+      "skills": [
+        {
+          "name": "Git",
+          "level": 2,
+          "icon": "skill-icons:github-dark"
+        },
+        { "name": "Gitlab", "level": 3, "icon": "skill-icons:gitlab-dark" },
+        { "name": "Swagger", "level": 3, "icon": "skill-icons:codepen-dark" },
+        { "name": "VS Code", "level": 3, "icon": "skill-icons:vscode-dark" },
+        { "name": "Figma", "level": 3, "icon": "skill-icons:figma-dark" },
+        { "name": "Typst", "level": 3, "icon": "skill-icons:codepen-dark" },
+        { "name": "Ubuntu", "level": 3, "icon": "skill-icons:ubuntu-dark" }
       ]
     }
   ]
