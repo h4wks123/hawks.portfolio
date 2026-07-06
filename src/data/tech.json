@@ -114,7 +114,7 @@
           "icon": "skill-icons:github-dark"
         },
         { "name": "Gitlab", "level": 3, "icon": "skill-icons:gitlab-dark" },
-        { "name": "Swagger", "level": 3, "icon": "" },
+        { "name": "Postman", "level": 3, "icon": "skill-icons:postman" },
         { "name": "VS Code", "level": 3, "icon": "skill-icons:vscode-dark" },
         { "name": "Figma", "level": 3, "icon": "skill-icons:figma-dark" },
         { "name": "Typst", "level": 3, "icon": "" },
