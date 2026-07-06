@@ -62,17 +62,17 @@
         {
           "name": "Drizzle ORM",
           "level": 2,
-          "icon": "skill-icons:codepen-dark"
+          "icon": ""
         },
         {
           "name": "Axum",
           "level": 2,
-          "icon": "skill-icons:codepen-dark"
+          "icon": ""
         },
         {
           "name": "Rest APIs",
           "level": 2,
-          "icon": "skill-icons:codepen-dark"
+          "icon": ""
         }
       ]
     },
@@ -85,7 +85,7 @@
           "icon": "skill-icons:mysql-dark"
         },
         { "name": "SQLite", "level": 3, "icon": "skill-icons:sqlite" },
-        { "name": "Turso", "level": 3, "icon": "skill-icons:codepen-dark" },
+        { "name": "Turso", "level": 3, "icon": "" },
         {
           "name": "PostgreSQL",
           "level": 2,
@@ -101,7 +101,7 @@
           "level": 2,
           "icon": "skill-icons:vercel-dark"
         },
-        { "name": "Render", "level": 3, "icon": "skill-icons:codepen-dark" },
+        { "name": "Render", "level": 3, "icon": "" },
         { "name": "Docker", "level": 3, "icon": "skill-icons:docker" }
       ]
     },
@@ -114,10 +114,10 @@
           "icon": "skill-icons:github-dark"
         },
         { "name": "Gitlab", "level": 3, "icon": "skill-icons:gitlab-dark" },
-        { "name": "Swagger", "level": 3, "icon": "skill-icons:codepen-dark" },
+        { "name": "Swagger", "level": 3, "icon": "" },
         { "name": "VS Code", "level": 3, "icon": "skill-icons:vscode-dark" },
         { "name": "Figma", "level": 3, "icon": "skill-icons:figma-dark" },
-        { "name": "Typst", "level": 3, "icon": "skill-icons:codepen-dark" },
+        { "name": "Typst", "level": 3, "icon": "" },
         { "name": "Ubuntu", "level": 3, "icon": "skill-icons:ubuntu-dark" }
       ]
     }
