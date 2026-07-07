@@ -40,7 +40,7 @@
     "description": "This project, based on a Frontend Mentor challenge, fetches country data from an external REST API and displays it on the client. It was built to strengthen my fundamentals in HTML, CSS, and JavaScript while practicing the BEM (Block Element Modifier) methodology for writing maintainable and scalable CSS.",
     "images": ["countries_photo.jpg", "#"],
     "tech": ["HTML", "CSS", "Javascript", "Block Element Modifier"],
-    "platforms": ["apple-ios", "android"],
+    "platforms": ["web"],
     "link": "https://github.com/h4wks123/Countries",
     "category": "Frontend Mentor"
   },
