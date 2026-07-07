@@ -11,7 +11,6 @@
         },
         { "name": "C", "level": 1, "icon": "skill-icons:c" },
         { "name": "C#", "level": 1, "icon": "skill-icons:cs" },
-        { "name": "Python", "level": 1, "icon": "skill-icons:python-dark" },
         { "name": "Dart", "level": 1, "icon": "skill-icons:dart-dark" },
         { "name": "Rust", "level": 1, "icon": "skill-icons:rust" }
       ]
@@ -65,12 +64,12 @@
           "icon": ""
         },
         {
-          "name": "Axum",
+          "name": "Rest APIs",
           "level": 2,
           "icon": ""
         },
         {
-          "name": "Rest APIs",
+          "name": "Websockets",
           "level": 2,
           "icon": ""
         }
@@ -114,10 +113,11 @@
           "icon": "skill-icons:github-dark"
         },
         { "name": "Gitlab", "level": 3, "icon": "skill-icons:gitlab-dark" },
-        { "name": "Postman", "level": 3, "icon": "skill-icons:postman" },
         { "name": "VS Code", "level": 3, "icon": "skill-icons:vscode-dark" },
+        { "name": "Postman", "level": 3, "icon": "skill-icons:postman" },
         { "name": "Figma", "level": 3, "icon": "skill-icons:figma-dark" },
         { "name": "Typst", "level": 3, "icon": "" },
+        { "name": "Bash", "level": 3, "icon": "skill-icons:bash-dark" },
         { "name": "Ubuntu", "level": 3, "icon": "skill-icons:ubuntu-dark" }
       ]
     }

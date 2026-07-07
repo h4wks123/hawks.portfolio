@@ -1,5 +1,14 @@
 [
   {
+    "title": "OpenSFF",
+    "description": "OpenSFF is a website which is used to promote a vendor-neutral hardware standard built for openness, serviceability, and long-term use. During my stay in Tekkio, I was one of the key contributors in designing and implementing this website spanning both design and frontend. I was also featured in some of the dev posts as part of the OpenSFF Dev Team.",
+    "images": ["opensff_photo.jpg", "#"],
+    "tech": ["NextJS", "ThreeJS", "Framer Motion"],
+    "platforms": ["web"],
+    "link": "https://opensff.org/",
+    "category": "Published Website"
+  },
+  {
     "title": "Sprinkla",
     "description": "Sprinkla is a full-stack donut delivery system I built as a personal project to showcase my front-end and back-end development skills. This project gave me hands-on experience designing and building a complete full-stack application from UI/UX design to real-time backend logic and deployment.",
     "images": ["sprinkla_photo.jpg", "#"],
@@ -10,6 +19,7 @@
       "Turso",
       "ShadCN",
       "Vercel",
+      "Render",
       "Node.js"
     ],
     "platforms": ["web"],
@@ -26,11 +36,20 @@
     "category": "School Project"
   },
   {
+    "title": "REST Countries API",
+    "description": "This project, based on a Frontend Mentor challenge, fetches country data from an external REST API and displays it on the client. It was built to strengthen my fundamentals in HTML, CSS, and JavaScript while practicing the BEM (Block Element Modifier) methodology for writing maintainable and scalable CSS.",
+    "images": ["countries_photo.jpg", "#"],
+    "tech": ["HTML", "CSS", "Javascript", "Block Element Modifier"],
+    "platforms": ["apple-ios", "android"],
+    "link": "https://github.com/h4wks123/Countries",
+    "category": "Frontend Mentor"
+  },
+  {
     "title": "Ensembled Transfer Learning for Image Classification of Venomous and Non-Venomous Snakes in the Philippines",
     "description": "As part of an academic research initiative accepted for presentation at the 6th International Conference on Advanced Information Technologies (ICAIT) 2025, I collaborated on the study of an image classification system designed to identify venomous and non-venomous snakes in the Philippines.",
     "images": ["thesis_publication.png", "#"],
     "tech": ["Python", "Jupyter Notebook", "Web Scraping"],
-    "platforms": ["apple-ios", "android", "web"],
+    "platforms": ["web"],
     "link": "https://ieeexplore.ieee.org/document/11236760",
     "category": "Publication"
   }
