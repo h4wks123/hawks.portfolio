@@ -11,6 +11,7 @@
         },
         { "name": "C", "level": 1, "icon": "skill-icons:c" },
         { "name": "C#", "level": 1, "icon": "skill-icons:cs" },
+        { "name": "Python", "level": 1, "icon": "skill-icons:python-dark" },
         { "name": "Dart", "level": 1, "icon": "skill-icons:dart-dark" },
         { "name": "Rust", "level": 1, "icon": "skill-icons:rust" }
       ]
@@ -54,11 +55,6 @@
         { "name": "Express", "level": 2, "icon": "skill-icons:expressjs-dark" },
         { "name": "ASP .NET Core", "level": 2, "icon": "skill-icons:dotnet" },
         {
-          "name": "Firebase",
-          "level": 3,
-          "icon": "vscode-icons:file-type-firebase"
-        },
-        {
           "name": "Drizzle ORM",
           "level": 2,
           "icon": ""
@@ -101,7 +97,9 @@
           "icon": "skill-icons:vercel-dark"
         },
         { "name": "Render", "level": 3, "icon": "" },
-        { "name": "Docker", "level": 3, "icon": "skill-icons:docker" }
+        { "name": "Docker", "level": 3, "icon": "skill-icons:docker" },
+        { "name": "AWS EC2", "level": 3, "icon": "skill-icons:aws-dark" },
+        { "name": "Nginx", "level": 3, "icon": "skill-icons:nginx" }
       ]
     },
     {
@@ -118,7 +116,12 @@
         { "name": "Figma", "level": 3, "icon": "skill-icons:figma-dark" },
         { "name": "Typst", "level": 3, "icon": "" },
         { "name": "Bash", "level": 3, "icon": "skill-icons:bash-dark" },
-        { "name": "Ubuntu", "level": 3, "icon": "skill-icons:ubuntu-dark" }
+        { "name": "Ubuntu", "level": 3, "icon": "skill-icons:ubuntu-dark" },
+        {
+          "name": "OpenAI Codex",
+          "level": 3,
+          "icon": ""
+        }
       ]
     }
   ]
