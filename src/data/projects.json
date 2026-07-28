@@ -6,7 +6,7 @@
     "tech": ["NextJS", "ThreeJS", "Framer Motion"],
     "platforms": ["web"],
     "link": "https://opensff.org/",
-    "category": "Published Website"
+    "category": "Professional Work"
   },
   {
     "title": "Sprinkla",
@@ -24,6 +24,23 @@
     ],
     "platforms": ["web"],
     "link": "https://sprinkla.vercel.app/",
+    "category": "Published Website"
+  },
+  {
+    "title": "Chimer",
+    "description": "Chimer is a full-stack, real-time chat application that allows every user to communicate with one another in a shared conversation. I developed it to deepen my understanding of production-grade deployments by hosting it on an AWS EC2 instance using Docker Compose, Nginx, PostgreSQL, and TLS-secured HTTPS with SSL certificate management, further enhancing my understanding of DevOps and infrastructure.",
+    "images": ["chimer_photo.jpg", "#"],
+    "tech": [
+      "React.js",
+      "Express",
+      "PostgreSQL",
+      "Nginx",
+      "Better Auth",
+      "Docker",
+      "AWS EC2"
+    ],
+    "platforms": ["web"],
+    "link": "https://chimer.abrdns.com/",
     "category": "Published Website"
   },
   {
