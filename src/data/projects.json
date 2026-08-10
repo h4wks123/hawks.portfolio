@@ -1,11 +1,29 @@
 [
   {
     "title": "OpenSFF",
-    "description": "OpenSFF is a website which is used to promote a vendor-neutral hardware standard built for openness, serviceability, and long-term use. During my stay in Tekkio, I was one of the key contributors in designing and implementing this website spanning both design and frontend. I was also featured in some of the dev posts as part of the OpenSFF Dev Team.",
+    "description": "OpenSFF promotes a vendor-neutral hardware standard focused on openness, serviceability, and long-term use. During my time with OpenSFF, I was a key contributor to the design and frontend development of its main website, while also helping build internal tools and being featured as a member of the OpenSFF Dev Team in several developer-focused blog posts.",
     "images": ["opensff_photo.jpg", "#"],
-    "tech": ["NextJS", "ThreeJS", "Framer Motion"],
+    "tech": [],
     "platforms": ["web"],
     "link": "https://opensff.org/",
+    "category": "Professional Work"
+  },
+  {
+    "title": "Tekkio",
+    "description": "Tekkio is an edge infrastructure platform built to simplify the deployment and management of distributed IT environments. During my time with Tekkio, I helped develop new features, build key sections of the main website including the blog, and contribute to internal tools and applications such as a support ticketing platform and kiosk-based animal shelter app, while also fixing API and UI issues across projects.",
+    "images": ["tekkio_photo.jpg", "#"],
+    "tech": [],
+    "platforms": ["web"],
+    "link": "https://tekkio.com/",
+    "category": "Professional Work"
+  },
+  {
+    "title": "Anchor Linux",
+    "description": "Anchor Linux is a lightweight and secure Linux foundation designed for purpose-built systems and appliances. During my time with the project, I designed and implemented the company’s main website from design to frontend as my primary contribution.",
+    "images": ["anchor_linux_photo.jpg", "#"],
+    "tech": [],
+    "platforms": ["web"],
+    "link": "https://anchorlinux.com/",
     "category": "Professional Work"
   },
   {

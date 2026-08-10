@@ -5,13 +5,13 @@
     "period": "Oct 2025 - Present",
     "type": "Wyoming, United States · Remote",
     "description": [
-      "While working at Tekkio, I was also assigned to support the OpenSFF team in developing web and application features. My contributions span frontend development using Flutter and Next.js, as well as protocol and performance optimizations in Rust.",
+      "As a developer for OpenSFF, I took ownership of a wide range of web and application features across the project. My contributions spanned frontend development with Flutter and Next.js, alongside protocol design, backend development, and performance optimizations in Rust.",
       "‎ ",
       "• Served as a key contributor to the OpenSFF website spanning both design and frontend: https://opensff.org/",
       "• Engineered a Flutter-based real-time VNC client application with WebSocket integration, enabling low-latency bidirectional input and rendering.",
       "• Optimized a real-time rendering pipeline in Rust, reducing frame latency by ~88% (600ms → 70ms) through low-level performance tuning.",
       "• Reduced network payload size by 90.57% by implementing efficient encoding strategies, improving bandwidth efficiency in real-time systems.",
-      "• Developed concurrent processing pipelines using multi-threading and message passing, improving system responsiveness and throughput.",
+      "• Implemented concurrent Rust processing for mouse and keyboard input and framebuffer updates, using multi-threading and message passing to improve responsiveness and system performance.",
       "• Contributed to the design and development of a full-stack management platform integrating Redfish-compliant APIs for real-time control, configuration, and monitoring of distributed systems.",
       "• Architected a static-first content system using Next.js for a blog platform, enabling scalable publishing of 50+ MDX articles with CDN-backed performance."
     ],
@@ -21,6 +21,7 @@
       "Dart",
       "Rust",
       "Docker",
+      "Framer Motion",
       "API Development",
       "Performance Benchmarking",
       "Custom Protocol Integration"
@@ -32,6 +33,8 @@
     "period": "July 2025 - Present",
     "type": "Wyoming, United States · Remote",
     "description": [
+      "As a Tekkio developer, I contributed to and took ownership of multiple web and application projects, spanning frontend and full-stack development with Flutter, Next.js, and Rust. My work included REST API development, authentication, performance optimization, data validation, and application security.",
+      "‎ ",
       "• Served as a key contributor in the architecture and development of a kiosk-based animal shelter management platform using Flutter and Rust, supporting ~150 volunteers with a focus on accessibility for elderly and accessibility-focused users.",
       "• Engineered a full-stack ticketing platform with Next.js and Rust, implementing role-based authorization, advanced search, filtering, and pagination.",
       "• Designed and delivered RESTful APIs supporting authentication, ticket workflows, and high-performance data access.",
@@ -48,6 +51,7 @@
       "Dart",
       "Rust",
       "Docker",
+      "Framer Motion",
       "SQLite",
       "REST APIs"
     ]
@@ -113,10 +117,6 @@
       "• Consistent Deans Lister for 2022 January - 2025 December",
       "• Relevant Coursework: Algorithms & Data Structures, Programming Languages, Operating Systems, Networking, System Design and Analysis, Data Analysis, Information Assurance and Security, Web and Mobile Development."
     ],
-    "skills": [
-      "Web Development",
-      "Frontend",
-      "Backend"
-    ]
+    "skills": ["Web Development", "Frontend", "Backend"]
   }
 ]
